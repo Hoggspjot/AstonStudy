@@ -1,4 +1,4 @@
-package AbstractClasses;
+package HomeWork2.src.AbstractClasses;
 
 /*
  * Наследуется от класса транспортные средства т.к. им и является is-a
@@ -7,9 +7,9 @@ package AbstractClasses;
  *
  * */
 
-import Classes.Rotor;
-import Classes.Wheels;
-import Classes.Wings;
+
+
+import HomeWork2.src.Classes.Wheels;
 
 import java.util.List;
 

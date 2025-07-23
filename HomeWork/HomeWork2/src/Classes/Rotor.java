@@ -1,4 +1,4 @@
-package Classes;
+package HomeWork2.src.Classes;
 
 public class Rotor {
     private double diameter;

@@ -1,9 +1,10 @@
-package AbstractClasses;
+package HomeWork2.src.AbstractClasses;
 
-import Classes.Rotor;
-import Classes.Wheels;
-import Classes.Wings;
-import Interfaces.CarryLoads;
+
+import HomeWork2.src.Classes.Rotor;
+import HomeWork2.src.Classes.Wheels;
+import HomeWork2.src.Classes.Wings;
+import HomeWork2.src.Interfaces.CarryLoads;
 
 import java.util.List;
 

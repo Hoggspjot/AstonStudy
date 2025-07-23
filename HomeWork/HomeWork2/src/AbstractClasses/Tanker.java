@@ -1,7 +1,5 @@
-package AbstractClasses;
+package HomeWork2.src.AbstractClasses;
 
-import Classes.Rotor;
-import Interfaces.CarryLoads;
 
 /*
  * Наследуется от класса транспортные средства
@@ -10,6 +8,9 @@ import Interfaces.CarryLoads;
  * имплементирует интерфейс перевозка грузов
  *получает экземпляр класса винт
  * */
+
+import HomeWork2.src.Classes.Rotor;
+import HomeWork2.src.Interfaces.CarryLoads;
 
 public abstract class Tanker extends Vehicle implements CarryLoads {
     //винт

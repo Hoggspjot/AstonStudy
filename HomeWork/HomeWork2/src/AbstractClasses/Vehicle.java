@@ -1,4 +1,4 @@
-package AbstractClasses;
+package HomeWork2.src.AbstractClasses;
 
 /*
 * является базовым абстрактным классом видов транспортных средств

@@ -1,4 +1,4 @@
-package Classes;
+package HomeWork1.src.Classes;
 
 import Interfaces.Aquatic;
 
